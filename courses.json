@@ -1,0 +1,329 @@
+[
+ {
+  "id": "A",
+  "name": "Akihabara only, cards and retro games",
+  "tag": "On foot, no trains, finish by 16:30",
+  "chips": [
+   "Graded cards",
+   "Retro games",
+   "Arcade"
+  ],
+  "why": "Everything stays inside one square mile. The graded-card lounge opens at 11:00, so the day starts there and the rest follows on foot.",
+  "steps": [
+   [
+    "10:45",
+    "Akihabara Station",
+    "Meet at the Electric Town Exit.",
+    {
+     "maps": "Akihabara Station Electric Town Exit, Tokyo",
+     "img": "akiba"
+    }
+   ],
+   [
+    "11:00",
+    "SNKRDUNK Trading Card Akihabara",
+    "Trading cards on floors 1 to 3. PSA Lounge Tokyo is on the 5th floor, open 11:00 to 14:00 and 15:00 to 19:30, and closed on Tuesdays and Wednesdays.",
+    {
+     "url": "https://snkrdunk.com/store/tradingcard-akihabara",
+     "maps": "SNKRDUNK Trading Card Akihabara, 1-14-1 Sotokanda, Chiyoda, Tokyo",
+     "art": "slab"
+    }
+   ],
+   [
+    "12:30",
+    "Lunch",
+    "A quick lunch in Akihabara.",
+    {
+     "maps": "Akihabara Station, Tokyo",
+     "art": "orb"
+    }
+   ],
+   [
+    "13:30",
+    "Mandarake Complex",
+    "Eight floors of vintage toys, manga and collectibles. Open 12:00 to 20:00 every day.",
+    {
+     "url": "https://www.mandarake.co.jp/dir/cmp/",
+     "maps": "Mandarake Complex, 3-11-12 Sotokanda, Chiyoda, Tokyo",
+     "img": "mandarake"
+    }
+   ],
+   [
+    "14:30",
+    "Super Potato",
+    "Retro games on floors 3 to 5, with a retro arcade on the 5th floor. Open 11:00 to 20:00 every day.",
+    {
+     "url": "https://www.superpotato.com/shop/akihabara/",
+     "maps": "Super Potato Akihabara, 1-11-2 Sotokanda, Chiyoda, Tokyo",
+     "img": "potato1"
+    }
+   ],
+   [
+    "15:45",
+    "Hey",
+    "A large arcade near the station, open every day. Finish here, or keep browsing.",
+    {
+     "url": "https://www.taito.co.jp/en/store/00001703",
+     "maps": "Hey Akihabara, 1-10-5 Sotokanda, Chiyoda, Tokyo",
+     "img": "arcade"
+    }
+   ]
+  ],
+  "stops": [
+   "Akihabara Station Electric Town Exit, Tokyo",
+   "SNKRDUNK Trading Card Akihabara, 1-14-1 Sotokanda, Chiyoda, Tokyo",
+   "Mandarake Complex, 3-11-12 Sotokanda, Chiyoda, Tokyo",
+   "Super Potato Akihabara, 1-11-2 Sotokanda, Chiyoda, Tokyo",
+   "Hey Akihabara, 1-10-5 Sotokanda, Chiyoda, Tokyo"
+  ],
+  "moves": "Everything is a few minutes on foot.",
+  "food": [],
+  "good": "Collectors who want the most time in front of the cases.",
+  "mind": "The PSA Lounge is closed from 14:00 to 15:00 and on Tuesdays and Wednesdays. The first stop opens at 11:00.",
+  "links": [
+   [
+    "SNKRDUNK store page",
+    "https://snkrdunk.com/store/tradingcard-akihabara"
+   ],
+   [
+    "Super Potato",
+    "https://www.superpotato.com/shop/akihabara/"
+   ],
+   [
+    "Mandarake Complex",
+    "https://www.mandarake.co.jp/dir/cmp/"
+   ],
+   [
+    "Hey",
+    "https://www.taito.co.jp/en/store/00001703"
+   ]
+  ]
+ },
+ {
+  "id": "B",
+  "name": "Akihabara, then Shibuya for Nintendo",
+  "tag": "Half a day on foot, then one train ride",
+  "chips": [
+   "Graded cards",
+   "Nintendo",
+   "Pokémon Center"
+  ],
+  "why": "A shorter card round in the morning, then Nintendo TOKYO and the Pokémon Center on the same floor of Shibuya PARCO.",
+  "steps": [
+   [
+    "10:45",
+    "Akihabara Station",
+    "Meet at the Electric Town Exit.",
+    {
+     "maps": "Akihabara Station Electric Town Exit, Tokyo",
+     "img": "akiba"
+    }
+   ],
+   [
+    "11:00",
+    "SNKRDUNK Trading Card Akihabara",
+    "Trading cards on floors 1 to 3, and PSA Lounge Tokyo on the 5th floor. The lounge is open 11:00 to 14:00, so we go first.",
+    {
+     "url": "https://snkrdunk.com/store/tradingcard-akihabara",
+     "maps": "SNKRDUNK Trading Card Akihabara, 1-14-1 Sotokanda, Chiyoda, Tokyo",
+     "art": "slab"
+    }
+   ],
+   [
+    "12:15",
+    "Super Potato",
+    "Retro games on floors 3 to 5 and a retro arcade on the 5th. Open 11:00 to 20:00.",
+    {
+     "url": "https://www.superpotato.com/shop/akihabara/",
+     "maps": "Super Potato Akihabara, 1-11-2 Sotokanda, Chiyoda, Tokyo",
+     "img": "potato2"
+    }
+   ],
+   [
+    "13:15",
+    "Lunch",
+    "Lunch before the train.",
+    {
+     "maps": "Akihabara Station, Tokyo",
+     "art": "orb"
+    }
+   ],
+   [
+    "14:00",
+    "Train to Shibuya",
+    "One train ride on the Yamanote Line.",
+    {
+     "maps": "Shibuya Station, Tokyo",
+     "art": "ball"
+    }
+   ],
+   [
+    "14:45",
+    "Nintendo TOKYO",
+    "Shibuya PARCO, 6th floor. Open 10:00 to 21:00. On busy days entry is by free numbered ticket.",
+    {
+     "url": "https://www.nintendo.com/jp/officialstore/index.html",
+     "maps": "Nintendo TOKYO, Shibuya PARCO 6F, 15-1 Udagawacho, Shibuya, Tokyo",
+     "img": "nintendo"
+    }
+   ],
+   [
+    "15:45",
+    "Pokémon Center Shibuya",
+    "On the same floor of Shibuya PARCO. Open 10:00 to 21:00. The day ends here.",
+    {
+     "url": "https://shop.pokemon.co.jp/en/shop/pokemoncenter-shibuya/",
+     "maps": "Pokémon Center Shibuya, Shibuya PARCO 6F, 15-1 Udagawacho, Shibuya, Tokyo",
+     "img": "pcshibuya"
+    }
+   ]
+  ],
+  "stops": [
+   "Akihabara Station Electric Town Exit, Tokyo",
+   "SNKRDUNK Trading Card Akihabara, 1-14-1 Sotokanda, Chiyoda, Tokyo",
+   "Super Potato Akihabara, 1-11-2 Sotokanda, Chiyoda, Tokyo",
+   "Shibuya Station, Tokyo",
+   "Nintendo TOKYO, Shibuya PARCO 6F, 15-1 Udagawacho, Shibuya, Tokyo",
+   "Pokémon Center Shibuya, Shibuya PARCO 6F, 15-1 Udagawacho, Shibuya, Tokyo"
+  ],
+  "moves": "Short walks in Akihabara, then one train ride.",
+  "food": [],
+  "good": "A mix of card hunting and the big Nintendo and Pokémon stores.",
+  "mind": "Shibuya PARCO is crowded in the afternoon. The 6th floor is reached by the marked stairs, and the elevators do not stop there before 10:00.",
+  "links": [
+   [
+    "SNKRDUNK store page",
+    "https://snkrdunk.com/store/tradingcard-akihabara"
+   ],
+   [
+    "Nintendo TOKYO",
+    "https://www.nintendo.com/jp/officialstore/index.html"
+   ],
+   [
+    "Pokémon Center Shibuya",
+    "https://shop.pokemon.co.jp/en/shop/pokemoncenter-shibuya/"
+   ],
+   [
+    "Shibuya PARCO notice on 6F entry",
+    "https://shibuya.parco.jp/pnews/detail/?id=31525"
+   ]
+  ]
+ },
+ {
+  "id": "C",
+  "name": "Pokémon Centers across the city",
+  "tag": "Three areas, trains between, a full day",
+  "chips": [
+   "Pokémon Center",
+   "Cafe",
+   "Graded cards"
+  ],
+  "why": "Two of the largest Pokémon Centers, with the Pokémon Cafe nearby, and a card stop in Akihabara to close the day.",
+  "steps": [
+   [
+    "10:45",
+    "Akihabara Station",
+    "Meet at the Electric Town Exit.",
+    {
+     "maps": "Akihabara Station Electric Town Exit, Tokyo",
+     "img": "akiba"
+    }
+   ],
+   [
+    "11:00",
+    "Train to Ikebukuro",
+    "One train ride to Ikebukuro.",
+    {
+     "maps": "Ikebukuro Station, Tokyo",
+     "art": "ball"
+    }
+   ],
+   [
+    "11:45",
+    "Pokémon Center MEGA TOKYO",
+    "Sunshine City alpa, 2nd floor. Open 10:00 to 20:00. The shop reopened on 24 August 2026 after a closure and entry may be limited, so we check its notices first.",
+    {
+     "url": "https://shop.pokemon.co.jp/en/shop/pokemoncenter-megatokyo/",
+     "maps": "Pokémon Center MEGA TOKYO, Sunshine City alpa 2F, 3-1-2 Higashiikebukuro, Toshima, Tokyo",
+     "img": "mega"
+    }
+   ],
+   [
+    "13:00",
+    "Lunch",
+    "Lunch near Sunshine City.",
+    {
+     "maps": "Sunshine City, Ikebukuro, Tokyo",
+     "art": "orb"
+    }
+   ],
+   [
+    "14:15",
+    "Train to Nihonbashi",
+    "One train ride to Nihonbashi.",
+    {
+     "maps": "Nihonbashi Station, Tokyo",
+     "art": "ball"
+    }
+   ],
+   [
+    "14:45",
+    "Pokémon Center TOKYO DX",
+    "Nihonbashi Takashimaya S.C. East Building, 5th floor. Open 10:30 to 21:00.",
+    {
+     "url": "https://shop.pokemon.co.jp/en/shop/pokemoncenter-tokyodx/",
+     "maps": "Pokémon Center TOKYO DX, Nihonbashi Takashimaya S.C. East Building 5F, 2-11-2 Nihonbashi, Chuo, Tokyo",
+     "img": "dx"
+    }
+   ],
+   [
+    "15:45",
+    "Pokémon Cafe TOKYO",
+    "Nearby in the same complex. Seats are booked on the official site only, so book before the day if you want a table.",
+    {
+     "url": "https://www.pokemon-cafe.jp/ja/cafe/reservation.html",
+     "maps": "Pokémon Cafe TOKYO, Nihonbashi Takashimaya S.C. East Building, 2-11-2 Nihonbashi, Chuo, Tokyo",
+     "art": "slab"
+    }
+   ],
+   [
+    "17:15",
+    "Back to Akihabara",
+    "One last card stop. SNKRDUNK is open until 21:00, and PSA Lounge Tokyo is open until 19:30 with last intake at 18:30.",
+    {
+     "url": "https://snkrdunk.com/store/tradingcard-akihabara",
+     "maps": "SNKRDUNK Trading Card Akihabara, 1-14-1 Sotokanda, Chiyoda, Tokyo",
+     "img": "sega"
+    }
+   ]
+  ],
+  "stops": [
+   "Akihabara Station Electric Town Exit, Tokyo",
+   "Pokémon Center MEGA TOKYO, Sunshine City alpa 2F, 3-1-2 Higashiikebukuro, Toshima, Tokyo",
+   "Pokémon Center TOKYO DX, Nihonbashi Takashimaya S.C. East Building 5F, 2-11-2 Nihonbashi, Chuo, Tokyo",
+   "SNKRDUNK Trading Card Akihabara, 1-14-1 Sotokanda, Chiyoda, Tokyo"
+  ],
+  "moves": "Three train rides between the areas.",
+  "food": [],
+  "good": "Anyone who wants the big stores and the merchandise.",
+  "mind": "The most train time of the three plans. The cafe needs a booking. Check the MEGA TOKYO notices for entry rules before the day.",
+  "links": [
+   [
+    "Pokémon Center MEGA TOKYO",
+    "https://shop.pokemon.co.jp/en/shop/pokemoncenter-megatokyo/"
+   ],
+   [
+    "Pokémon Center TOKYO DX",
+    "https://shop.pokemon.co.jp/en/shop/pokemoncenter-tokyodx/"
+   ],
+   [
+    "Pokémon Cafe reservations",
+    "https://www.pokemon-cafe.jp/ja/cafe/reservation.html"
+   ],
+   [
+    "SNKRDUNK store page",
+    "https://snkrdunk.com/store/tradingcard-akihabara"
+   ]
+  ]
+ }
+]

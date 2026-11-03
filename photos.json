@@ -1,0 +1,121 @@
+{
+ "_credits": {
+  "akiba": {
+   "src": "img/akiba.jpg",
+   "alt": "Electric Town crossing in Akihabara, Tokyo",
+   "title": "Akihabara Electric Town, Tokyo, 20240823 1617 5580.jpg",
+   "artist": "Jakub Hałun",
+   "lic": "CC BY 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Akihabara_Electric_Town,_Tokyo,_20240823_1617_5580.jpg",
+   "note": ""
+  },
+  "mandarake": {
+   "src": "img/mandarake.jpg",
+   "alt": "Mandarake Complex building in Akihabara",
+   "title": "Mandarake Complex, Akihabara.jpg",
+   "artist": "street viewer",
+   "lic": "CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Mandarake_Complex,_Akihabara.jpg",
+   "note": "Photo from 2010."
+  },
+  "potato1": {
+   "src": "img/potato1.jpg",
+   "alt": "Display case of handheld games inside Super Potato, Akihabara",
+   "title": "Super Potato, Akihabara (22061988538).jpg",
+   "artist": "Chester from Toronto, Canada",
+   "lic": "CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Super_Potato,_Akihabara_(22061988538).jpg",
+   "note": "Photo from 2015."
+  },
+  "potato2": {
+   "src": "img/potato2.jpg",
+   "alt": "Shelves of retro consoles inside Super Potato, Akihabara",
+   "title": "Super Potato in Akihabara (4066556528).jpg",
+   "artist": "JoshBerglund19 from United States",
+   "lic": "CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Super_Potato_in_Akihabara_(4066556528).jpg",
+   "note": "Photo from 2009."
+  },
+  "arcade": {
+   "src": "img/arcade.jpg",
+   "alt": "Claw machines in an Akihabara arcade",
+   "title": "Claw cranes with kawaii stuffed mascots and a woman playing, Akihabara, Chiyoda, Tokyo, Japan.jpg",
+   "artist": "Basile Morin",
+   "lic": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Claw_cranes_with_kawaii_stuffed_mascots_and_a_woman_playing,_Akihabara,_Chiyoda,_Tokyo,_Japan.jpg",
+   "note": ""
+  },
+  "nintendo": {
+   "src": "img/nintendo.jpg",
+   "alt": "Inside Nintendo TOKYO at Shibuya PARCO",
+   "title": "Nintendo TOKYO (52505483607).jpg",
+   "artist": "Dick Thomas Johnson from Tokyo, Japan",
+   "lic": "CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Nintendo_TOKYO_(52505483607).jpg",
+   "note": "Photo from 2022; the shop may look different today."
+  },
+  "pcshibuya": {
+   "src": "img/pcshibuya.jpg",
+   "alt": "Entrance of Pokémon Center Shibuya",
+   "title": "Pokémon Center Shibuya (52506444865).jpg",
+   "artist": "Dick Thomas Johnson from Tokyo, Japan",
+   "lic": "CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Pok%C3%A9mon_Center_Shibuya_(52506444865).jpg",
+   "note": "Photo from 2022; the shop may look different today."
+  },
+  "mega": {
+   "src": "img/mega.jpg",
+   "alt": "Entrance of Pokémon Center MEGA TOKYO in Ikebukuro",
+   "title": "Mega Tokyo Pokémon Center 4.jpg",
+   "artist": "Maplestrip",
+   "lic": "CC BY 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Mega_Tokyo_Pok%C3%A9mon_Center_4.jpg",
+   "note": "Photo from 2016; the shop has been renovated since."
+  },
+  "dx": {
+   "src": "img/dx.jpg",
+   "alt": "Takashimaya department store in Nihonbashi",
+   "title": "Nihombashi Takashimaya, at Nihonbashi, Chuo, Tokyo (2019-05-01).jpg",
+   "artist": "Lombroso",
+   "lic": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Nihombashi_Takashimaya,_at_Nihonbashi,_Chuo,_Tokyo_(2019-05-01).jpg",
+   "note": ""
+  },
+  "sega": {
+   "src": "img/sega.jpg",
+   "alt": "Colourful buildings along Akihabara Electric Town",
+   "title": "Akihabara Electric Town 9999 281.jpg",
+   "artist": "Hyppolyte de Saint-Rambert",
+   "lic": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Akihabara_Electric_Town_9999_281.jpg",
+   "note": ""
+  }
+ },
+ "A": {
+  "card": {
+   "thumb": "img/akiba.jpg",
+   "title": "Electric Town crossing in Akihabara, Tokyo",
+   "lic": "CC BY 4.0"
+  },
+  "detail": [],
+  "food": []
+ },
+ "B": {
+  "card": {
+   "thumb": "img/nintendo.jpg",
+   "title": "Inside Nintendo TOKYO at Shibuya PARCO",
+   "lic": "CC BY 2.0"
+  },
+  "detail": [],
+  "food": []
+ },
+ "C": {
+  "card": {
+   "thumb": "img/pcshibuya.jpg",
+   "title": "Entrance of Pokémon Center Shibuya",
+   "lic": "CC BY 2.0"
+  },
+  "detail": [],
+  "food": []
+ }
+}
